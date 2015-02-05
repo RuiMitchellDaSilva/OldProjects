@@ -1,0 +1,89 @@
+﻿  Texture2D.cpp
+  StaticObject.cpp
+  SceneObject.cpp
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.h(109): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+  MeshLoader.cpp
+  main.cpp
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.h(109): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+  GLUTCallbacks.cpp
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.h(109): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+  GLUT.cpp
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.h(109): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(105): warning C4305: 'argument' : truncation from 'double' to 'GLclampf'
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(165): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(166): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(222): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(223): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(228): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(231): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(234): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(235): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(240): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(241): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(242): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(243): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(263): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(277): warning C4305: 'argument' : truncation from 'double' to 'float'
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(291): warning C4305: 'argument' : truncation from 'double' to 'float'
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(293): warning C4305: 'argument' : truncation from 'double' to 'float'
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(333): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(334): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(336): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(337): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(341): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(342): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(344): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(345): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(355): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(356): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(358): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(359): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(363): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(364): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(366): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(367): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(374): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(375): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(377): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(378): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(382): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(383): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(385): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(386): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(416): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(417): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(418): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(667): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(717): warning C4305: 'argument' : truncation from 'double' to 'float'
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(721): warning C4305: 'argument' : truncation from 'double' to 'float'
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(725): warning C4305: 'argument' : truncation from 'double' to 'float'
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(729): warning C4305: 'argument' : truncation from 'double' to 'float'
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(733): warning C4305: 'argument' : truncation from 'double' to 'float'
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(737): warning C4305: 'argument' : truncation from 'double' to 'float'
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(1251): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(1255): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(1259): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(1263): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\glut.cpp(1278): warning C4305: 'argument' : truncation from 'double' to 'GLclampf'
+  TranslatingObject.cpp
+  SceneGraph.cpp
+  RotatingObject.cpp
+  ProjectileObject.cpp
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\projectileobject.cpp(24): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\projectileobject.cpp(27): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\projectileobject.cpp(34): warning C4305: '+=' : truncation from 'double' to 'GLfloat'
+  ObjectLoader.cpp
+  MovableObject.cpp
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\movableobject.cpp(32): warning C4305: '-=' : truncation from 'double' to 'GLfloat'
+  LinkedList.cpp
+  HUDObject.cpp
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\hudobject.cpp(5): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\hudobject.cpp(23): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\hudobject.cpp(59): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+  Camera.cpp
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\camera.cpp(29): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\camera.cpp(30): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\camera.cpp(80): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+  Generating Code...
+c:\users\mizukami\desktop\oldprojects\gataringan\main\newglut\scenegraph.cpp(170): warning C4715: 'SceneGraph::DepthFirstSearch' : not all control paths return a value
+  NewGLUT.vcxproj -> C:\Users\mizukami\Desktop\OldProjects\Gataringan\Main\Debug\NewGLUT.exe
